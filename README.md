@@ -1,5 +1,5 @@
 # CIS245
-CIS245 Windows Client and Server
+CIS245 Windows Client and Server - ECPI
 
 
 Solutions can be requested by whatsapp or email to:
